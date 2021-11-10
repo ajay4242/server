@@ -14,6 +14,8 @@
 	"application/font-woff": "image",
 	"application/gpx+xml": "location",
 	"application/illustrator": "image",
+	"application/indesign": "indesign",
+	"application/indesign-xml": "indesign",
 	"application/javascript": "text/code",
 	"application/json": "text/code",
 	"application/msaccess": "file",
